@@ -1,2 +1,1 @@
-# jamescrosslettering
-My name animated using JS and p5.js
+My name animated using JS and p5.js: <https://jamescrosslettering.glitch.me>
